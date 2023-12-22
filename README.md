@@ -1,4 +1,4 @@
-# get-mit-headmaster!
+# Get-MIT-Headmaster!
 
 Inspired by https://github.com/mitchgu/GetMIT
 
